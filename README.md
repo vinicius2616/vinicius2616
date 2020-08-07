@@ -11,6 +11,6 @@ Atualmente estudo e busco conhecimentos para se tornar um programador full stack
 Principais tecnologias: <p>
   <p>
  • NodeJS <p>
- • ReactJS <p>
+ • React <p>
  • React Native
 
