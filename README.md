@@ -13,4 +13,5 @@ Principais tecnologias: <p>
  • NodeJS <p>
  • React <p>
  • React Native
+   
 
