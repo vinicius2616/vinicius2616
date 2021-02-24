@@ -14,18 +14,17 @@ Principais tecnologias: <p>
 <center>
 <div style="display:flex; justify-content:space-around; width: 100%;">
 
-
-<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/react.svg" height="40px"/>&nbsp;
-<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/javascript.svg" height="40px"/>&nbsp;
-<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/nodejs.svg" height="40px"/>&nbsp;
-<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/bootstrap.svg" height="40px"/>&nbsp;
-<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/css3.svg" height="40px"/>&nbsp;
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/html5.svg" height="40px"/>&nbsp;
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/css3.svg" height="40px"/>&nbsp;
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/javascript.svg" height="40px"/>&nbsp;
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/bootstrap.svg" height="40px"/>&nbsp;
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/react.svg" height="40px"/>&nbsp;
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/nextjs.png" height="40px"/>&nbsp;
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/nodejs.svg" height="40px"/>&nbsp;
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/mongodb.svg" height="40px"/>&nbsp;
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/postgreesql.svg" height="40px"/>&nbsp;
-<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/nextjs.png" height="40px"/>&nbsp;
-<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/Figma.svg" height="40px"/>&nbsp;
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/git.png" height="40px"/>&nbsp;
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/Figma.svg" height="40px"/>&nbsp;
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/yarn.png" height="40px"/>&nbsp;
 </div>
   </center>
