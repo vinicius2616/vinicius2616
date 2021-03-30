@@ -30,6 +30,4 @@ Principais tecnologias: <p>
   </center>
    
 
-![Vinicius Faleiros Stats](https://github-readme-stats.vercel.app/api?username=vinicius2616&show_icons=true&theme=tokyonight)
-
 ![Vinicius Faleiros Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius2616&hide=html&layout=compact&show_icons=true&theme=tokyonight)
