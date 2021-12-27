@@ -8,7 +8,6 @@
 
 ### Olá! 👋  Bem vindo ao meu perfil. #
 
-Atualmente estudo e busco conhecimentos para se tornar um programador full stack! 💻 <p>
 Principais tecnologias: <p>
   
 <center>
