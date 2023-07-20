@@ -23,6 +23,8 @@ Principais tecnologias: <p>
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/yarn.png" height="40px"/>&nbsp;
 </div>
   </center>
+  <br/>
+  <br/>
    
-
-![Vinicius Faleiros Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius2616&hide=html&layout=compact&show_icons=true&theme=tokyonight)
+![GitHub Streaks 🔥](https://github-readme-streak-stats.herokuapp.com/?user=vinicius2616&theme=dracula&hide_border=false)<br/>
+![Vinicius Faleiros Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius2616&hide=html&layout=compact&show_icons=true&theme=tokyonight)<br/>
