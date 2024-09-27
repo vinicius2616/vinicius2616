@@ -14,6 +14,7 @@ Olá! 👋 Bem-vindo ao meu perfil GitHub. Sou um desenvolvedor apaixonado por t
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=white)
+![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=node&logoColor=white)
 
 ## 📈 Estatísticas do GitHub
 
